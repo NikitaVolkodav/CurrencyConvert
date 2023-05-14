@@ -1,0 +1,11 @@
+ # CurrencyConverter
+
+- Offline Currency Conversion: The app is designed to work without internet connectivity, thanks to the use of UserDefaults. This means that users can perform currency conversions even when they are offline, making it convenient for travelers or users in areas with limited internet access.
+- UISegmentedControl for Exchange Rate Selection: The app features a UISegmentedControl that allows users to switch between different exchange rates for buying and selling currencies. This gives users flexibility in choosing the exchange rate that best suits their needs.
+- Currency Search with UISearchBar and AVAudioEngine: The app provides a currency search feature that allows users to easily find and add currencies to the main screen. Users can search for currencies by entering text in a UISearchBar, or they can even use AVAudioEngine to perform voice-based currency searches, making it convenient and user-friendly.
+- Currency Sharing: The app allows users to share currency information with others using various sharing options, such as sharing through messenger apps or other communication channels. This enables users to easily share currency rates or conversion results with friends, family, or colleagues.
+- API Request and Error Handling: The app utilizes new knowledge in API request handling by implementing URLComponents for building API URLs, and includes error handling for bad status codes, bad URLs, bad server responses, and no data errors. This ensures that the app can handle different scenarios and provide appropriate feedback to the user in case of any errors.
+Overall, the Currency Converter Application is a comprehensive iOS app that provides offline currency conversion, flexible exchange rate selection, easy currency search, convenient currency sharing, and robust error handling using various iOS development tools and techniques.
+- In addition to the technical components mentioned earlier, the Currency Converter Application also supports both horizontal and vertical orientations, providing a seamless user experience in both orientations.
+
+![MyCollages](https://user-images.githubusercontent.com/110492501/233805209-6ac08bf5-be9b-4824-a081-4e994b476d07.jpg)
